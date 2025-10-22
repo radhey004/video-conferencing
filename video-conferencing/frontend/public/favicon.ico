@@ -1,0 +1,6 @@
+<!-- Placeholder favicon - You can replace this with an actual .ico file -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#0ea5e9"/>
+  <path d="M30 35 L30 65 L45 55 Z" fill="white"/>
+  <circle cx="65" cy="50" r="8" fill="white"/>
+</svg>
